@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @CSpanoudak
-- 👀 I’m interested in Data Engineering and data analysis 
-- 🌱 I’m currently learning SQL,Python at a more advanced level
 
 
 <!---
